@@ -14,8 +14,6 @@ I'm a PhD in **Rock Mechanics Engineering** and **Seismology** with expertise as
 - **Engineering Tools**: Itasca Suite, Rocscience Suite, mXrap.
 - **Technologies**: Machine Learning, Data Analysis, Probabilistic and Statistical Modeling.
 
----
-
 ## 📫 How to Reach Me
 
 - LinkedIn: [prtlq](https://www.linkedin.com/in/prtlq)
